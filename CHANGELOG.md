@@ -622,7 +622,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.1.2] - 2014-12-23
 ### Changed
 - Exposed helpers into parser instances (for plugins).
-- Removed utils from global export - been in instances seems enougth.
+- Removed utils from global export - been in instances seems enough.
 - Refactored demo & added markdown-it-emoji to it.
 
 
